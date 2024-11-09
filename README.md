@@ -15,7 +15,7 @@ This is a simple app that displays information about countries, including their 
 3 - run `npm start` to start the server.
 
 ### Frontend
-1 - run `npm install` to install dependencies.
-    1.5 - obs: If you have a error to install dependencies, try to run `npm install --legacy-peer-deps` instead.
-2 - configure the environment variables in `.env.example` and rename it to `.env`.
-3 - run `npm run dev` to start the server.
+#### 1 - run `npm install` to install dependencies.
+   #### 1.5 - obs: If you have a error to install dependencies, try to run `npm install --legacy-peer-deps` instead.
+#### 2 - configure the environment variables in `.env.example` and rename it to `.env`.
+#### 3 - run `npm run dev` to start the server.
